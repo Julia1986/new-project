@@ -76,6 +76,7 @@
 .slider .slider_btn {
 	float: right;
     	margin-right: 100px;
+	color: black;
 }
 .slick-btn {
 	top: 200px;
