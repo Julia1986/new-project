@@ -74,7 +74,8 @@
 	top: 0;
 }
 .slider .slider_btn {
-	margin-left: 10%;
+	float: right;
+    	margin-right: 100px;
 }
 .slick-btn {
 	top: 200px;
